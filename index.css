@@ -1,0 +1,79 @@
+#sidebar{
+	width: 200px;
+	height: 900px;
+	background-color: #12345a;
+	float: left;
+}
+#sidebar a {
+	text-decoration: none;
+	color: white;
+	margin: 20px;
+}
+#sidebar a:hover{
+	font-style: oblique;
+}
+#sidebar li{
+	font-size: 20px;
+	color: white;
+	display: inline-block;
+	width: 150px;
+	text-align: center;
+	margin-top: 20px;
+}
+#Header{
+	width: 100%;
+	height: 300px;
+	background-color: black;
+	color: white;
+}
+#Header img{
+	float: left;
+	
+}
+#Header h2{
+	font-size: 40px;
+	margin-top: 10px;
+}
+#HomeMain h2{
+	text-align: center;
+		
+}
+#AboutMain h2{
+	text-align: center;
+}
+#AboutMain img{
+	margin-left:20px;
+	margin-right: 20px;
+}
+p{
+	font-size: 20px;
+}
+#FacilitiesMain ul{
+	float: left;
+}
+#FacilitiesMain h2{
+	text-align: center;
+}
+#FacilitiesMain img{
+	padding: 20px;
+}
+#MembershipMain h2{
+	text-align: center;
+}
+#VIP img{
+
+	width: 200px;
+	height: 100px;
+	margin: 10px;
+}
+#VIP p{	
+	float: right;
+	margin: 10px;
+}
+#footer{
+	width:100%;
+	height: 200px;
+	background-color: #12345a;
+	color: white;
+
+}
